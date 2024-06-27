@@ -8,7 +8,7 @@ def check_number(number):
 
 
 
-#do not need to change the code below , it is simply going to test the code you write above to see it is running properly
+#do not change the code below , it is simply going to test the code you write above to see it is running properly
 import unittest
 
 class TestCheckNumber(unittest.TestCase):
